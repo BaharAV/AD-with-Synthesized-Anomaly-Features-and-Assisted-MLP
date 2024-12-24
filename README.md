@@ -10,4 +10,4 @@ Presented and Awarded at the Winter Conference of Society for Computational Desi
 ### Visualization for the Br35H dataset
 ![Image 3](imgs/visualization_2.png)
 
-*This script incorporates elements from prior works including [PatchCore](https://github.com/amazon-science/patchcore-inspection) and [SimpleNet](https://github.com/DonaldRR/SimpleNet).*
+*This implementation is based on the codes from [PatchCore](https://github.com/amazon-science/patchcore-inspection) and [SimpleNet](https://github.com/DonaldRR/SimpleNet). Modifications have been made for the purposes stated in the [paper](https://baharav.github.io/files/CDE2024.pdf).*
