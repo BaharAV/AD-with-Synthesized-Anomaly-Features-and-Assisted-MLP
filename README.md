@@ -1,6 +1,4 @@
-# Project Title
-
-Anomaly Detection and Localization with Synthesized Anomaly Features and Assisted MLP
+# Anomaly Detection and Localization with Synthesized Anomaly Features and Assisted MLP
 Presented and awarded at the Winter Conference of Society for Computational Design and Engineering, 2024
 
 
